@@ -1,1 +1,3 @@
-# TCP_server
+# Socket
+### Basic  TCP socket 
+#### clientpart & serverpart
